@@ -1,0 +1,7 @@
+{
+    "aim_strength": 0.65,
+    "target_range": 350,
+    "smoothing": 0.55,
+    "capture_fps": 144,
+    "confidence": 0.5
+}

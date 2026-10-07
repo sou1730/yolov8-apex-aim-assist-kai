@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Models (もし重い重みファイルをGitHubに上げたくない場合。小さい yolo11n.pt ならそのままでもいいが、大きければ除外するか Git LFS を使う)
+# models/*.pt
